@@ -1,5 +1,6 @@
 <div align="center">
 <img src="dostoevsky.jpg" width="200" />
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-blueviolet?style=for-the-badge" />
