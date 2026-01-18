@@ -8,7 +8,7 @@
 </p>
 
 Goals? - shit. Bullshit.
-I'm here not for a goal, I'm here because of tire. 
+But what if, we're here for a reason?
 
 ## technologies and tools
 
